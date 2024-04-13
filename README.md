@@ -32,7 +32,7 @@ Create an engaging and eye-catching dashboard using Python by utilising the Stre
 Use the "mysql-connector-python" library to connect to the MySQL database and fetch the data into a Pandas dataframe. Use the data in the dataframe to update the dashboard dynamically.
 - Deployment:
 Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly and deploy the dashboard publicly, making it accessible to users.
-Usage of App
+# Usage of App
 After the project has been successfully set up and activated, users can interact with the Streamlit application through a web browser. Through the application's user-friendly interface, users can carry out the following tasks: 
 - The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics ,fetch data and preprocess it.
 - Gather information and keep it in a SQL data warehouse for numerous metrics.
