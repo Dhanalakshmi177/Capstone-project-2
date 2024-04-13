@@ -6,4 +6,16 @@ PhonePe, India's leading fintech platform, announced the launch of PhonePe Pulse
 
 The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews. The report is available as a free download on the PhonePe Pulse website and GitHub.
    
-        
+# Problem Statement        
+The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
+# Overview 
+In this streamlit web app you can visualize the phonepe pulse data and gain lot of insights on transactions, number of users, top 10 state, district, pincode and which brand has most number of users and so on. Bar charts, Pie charts and Geo map visualization are used to get some insights.
+# Take Away Skills
+The following skills were acquired from the project: 
+- GITHUB CLONING
+- PYTHON
+- PANDAS
+- MYSQL
+- STREAMLIT
+- PLOTLY
+  
