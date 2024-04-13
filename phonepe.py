@@ -11,10 +11,10 @@ import numpy as np
 # ------------------------- CONNECTING MYSQL DATABASE
 
 mydb = db.connect(
-    host="127.0.0.1",
-    port="3306",
-    user="root",
-    password="root",
+    host="*******",
+    port="****",
+    user="*****",
+    password="*****",
     database= "phonepe"
 )
 mycursor = mydb.cursor()
